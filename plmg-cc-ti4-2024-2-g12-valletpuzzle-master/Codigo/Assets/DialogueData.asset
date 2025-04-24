@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3b21ebc3849eec47ba7a074974fd4e5, type: 3}
+  m_Name: DialogueData
+  m_EditorClassIdentifier: 
+  talkScript:
+  - name: Helena
+    text: "Bem-vindo ao Valet Puzzle, novato!\nEu sou Helena, dona deste lugar, e
+      vou te guiar. Seu trabalho aqui \xE9 simples... ou quase. Voc\xEA ser\xE1 o
+      manobrista encarregado de resolver os puzzles do dia a dia. Preparado? "
+  - name: Helena
+    text: "Sua miss\xE3o principal \xE9 liberar o carro vermelho, dos nossos clientes
+      VIP. Para isso, mova os outros carros, mas cuidado com obst\xE1culos fixos
+      \u2014 eles n\xE3o saem do lugar! "
+  - name: Helena
+    text: "Aqui, temos dois tipos de manobristas: os Cl\xE1ssicos, que resolvem no
+      tempo deles, e os Estrelas, que usam o menor n\xFAmero poss\xEDvel de movimentos.
+      Em qual deles voc\xEA vai se encaixar? "
+  - name: Helena
+    text: "Em cada puzzle, ver\xE1 duas informa\xE7\xF5es importantes: o n\xFAmero
+      m\xEDnimo de movimentos para liberar o carro vermelho e o n\xFAmero m\xE1ximo
+      aceit\xE1vel antes de irritar o cliente. Voc\xEA pode ultrapassar o m\xEDnimo,
+      mas tente n\xE3o exceder o m\xE1ximo! "
+  - name: Helena
+    text: "Se o desafio parecer imposs\xEDvel, use o bot\xE3o de desist\xEAncia.
+      Ele mostrar\xE1 a solu\xE7\xE3o \xF3tima para voc\xEA aprender e tentar novamente.
+      Boa sorte! "

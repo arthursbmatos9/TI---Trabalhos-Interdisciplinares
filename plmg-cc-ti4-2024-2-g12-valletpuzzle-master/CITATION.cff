@@ -1,0 +1,49 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Vallet Puzzle
+authors:
+  - family-names: Souza Cancado
+    given-names: Ana Fernanda 
+  - family-names: de Sá Braz de Matos
+    given-names:  Arthur
+  - family-names: Araújo Campos Silva
+    given-names: Gabriel 
+  - family-names: Praes Bernardes Nunes
+    given-names: Gabriel 
+  - family-names: Otávio de Oliveira
+    given-names: Guilherme 
+  - family-names: Pinheiro Roque
+    given-names: Júlia 
+  - family-names: Augusto Gomes Ferreira de Albuquerque 
+    given-names: Pedro
+  - family-names: Símil Araújo 
+    given-names: Vitória
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Martins Mol
+    given-names: Artur
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Neri Nobre
+    given-names: Cristiane 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Neves Rodrigues
+    given-names: Cristiano 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Ribeiro da Mota
+    given-names: Rosilane 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Ramos Costa
+    given-names: Pedro Henrique
+keywords:
+  - Puzzle
+  - Quebra-cabeça
+  - Lógica
+  - Raciocínio
+repository-code: https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-ti4-2024-2-g12-valletpuzzle
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2024-11-29
