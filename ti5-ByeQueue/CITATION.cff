@@ -1,0 +1,33 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: 
+authors:
+  - family-names: Ana Fernanda
+    given-names: Souza Cancado
+  - family-names: Arthur
+    given-names: de Sá Braz de Matos
+  - family-names: Gabriel
+    given-names: Araújo Campos Silva
+  - family-names: Gabriel
+    given-names: Praes Bernardes Nunes
+  - family-names: Guilherme
+    given-names: Otávio de Oliveira
+  - family-names: Vitória
+    given-names: Símil de Araújo
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Felipe
+    given-names: Domingos da Cunha
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Matheus
+    given-names: Barros Pereira
+keywords:
+  - supermarket
+  - queue
+  - iot
+  - simulation
+repository-code: 
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2022-07-14

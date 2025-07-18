@@ -54,11 +54,21 @@ Este repositório contém os trabalhos interdisciplinares desenvolvidos entre o 
 
 ---
 
-### 5. Sistemas Computacionais [Em desenvolvimento] (5º Período)
-**Descrição:** Projeto envolvendo duas das seguintes áreas: arquitetura de computadores, redes de computadores e sistemas operacionais.  
-**Objetivos:**  
-- Desenvolvimento com foco em software, hardware ou simulação  
-- Avaliação utilizando métodos analíticos, simulações ou medições
+### 5. Sistemas Computacionais (5º Período)  
+**Descrição:** Desenvolvimento de uma solução embarcada, integrando hardware, software e comunicação em rede. 
+**Disciplinas Integradas:**  
+- Sistemas Operacionais  
+- Arquitetura de Computadores  
+- Redes de Computadores
+- Banco de Dados
+**Destaques:**  
+- Utilização de ESP32 com leitores RFID para leitura de produtos  
+- API Flask para registro de itens e backend em FastAPI com integração ao Stripe  
+- Aplicativo em Flutter com visualização do carrinho em tempo real via WebSocket  
+**Entregas:**  
+- Protótipo físico integrado à cesta de compras  
+- Aplicativo mobile funcional com pagamento simulado  
+- Relatório técnico com metodologia, resultados e roadmap de melhorias
 
 ---
 
@@ -69,7 +79,7 @@ Este repositório contém os trabalhos interdisciplinares desenvolvidos entre o 
 
 ## ✍️ Autor 
 Trabalhos realizados em equipe e com orientação dos professores da instituição.
-Período: 1º ao 6º (2023/1 - 2025/2) 
+Períodos: 1º ao 6º (2023/1 - 2025/2) 
 
 ---
 
