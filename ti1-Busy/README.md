@@ -1,8 +1,16 @@
-# Documentação do Projeto
+# BUSY
 
-A documentação do projeto é composta pelos seguintes itens: 
- - [Processo de Design Thinking](concepcao/Processo%20Design%20Thinking%20-%20TEMPLATE.pdf)
- - [Relatório Técnico](relatorio/Relatorio%20Tecnico%20-%20TEMPLATE.md)
- - [Apresentação do Projeto](apresentacao/apresentacao%20-%20TEMPLATE.pptx)
- - [Vídeo de Demonstração](https://youtube.com)
+O BUSY é uma aplicação web desenvolvida no primeiro período como uma solução voltada à experiência de uso de transporte urbano e pagamentos digitais. O projeto foi estruturado com foco em usabilidade e interface, contemplando funcionalidades como cadastro de usuários, login, visualização de saldo, gestão de pontos, compra de passagens e feedbacks, com o objetivo de oferecer uma alternativa prática e moderna para o cotidiano dos usuários.
+
+## Alunos integrantes da equipe
+
+* Arthur de Sá Braz de Matos
+* Gabriel Araújo Campos Silva
+* Leonardo de Freitas Viana
+* Lucca Lacerda Alkmim Resende
+
+## Professores responsáveis
+
+* Ilo Amy Saldanha Rivero
+* Leonardo Vilela Cardoso
 
