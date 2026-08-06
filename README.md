@@ -1,6 +1,8 @@
 # Trabalhos Interdisciplinares - Ciência da Computação | PUC Minas
 
-Este repositório contém os trabalhos interdisciplinares desenvolvidos entre o 1º e o 6º período (2023/1 a 2025/2) do curso de Ciência da Computação da PUC Minas. Cada projeto integra conhecimentos adquiridos em diferentes disciplinas, promovendo o desenvolvimento de soluções completas, desde aplicações web até jogos com inteligência artificial e projetos de pesquisa.
+Este repositório contém os trabalhos interdisciplinares desenvolvidos entre o 1º e o 6º período (2023/1 a 2025/2) do curso de Ciência da Computação da PUC Minas. Cada projeto integra conhecimentos adquiridos em diferentes disciplinas, promovendo o desenvolvimento de soluções completas, como aplicações web, jogos com inteligência artificial, sistemas embarcados, paralelos e distribuídos.
+
+Dentro de cada pasta é possível encontrar arquivos como relatórios, vídeos, apresentações e builds, além dos códigos desenvolvidos.
 
 ---
 
@@ -10,13 +12,19 @@ Este repositório contém os trabalhos interdisciplinares desenvolvidos entre o 
 **Descrição:** Desenvolvimento de uma aplicação web completa com foco em front-end, utilizando as metodologias Design Thinking e Scrum.
 
 **Disciplinas Integradas:**  
+- Desenvolvimento de Interfaces Web  
 - Algoritmos e Estruturas de Dados  
 - Introdução à Computação  
-- Desenvolvimento de Interfaces Web  
 
-**Entregas:**  
+**Destaques:**  
 - Aplicação funcional hospedada
 - Relatório técnico com documentação completa
+
+**Autores:**  
+- Arthur de Sá Braz de Matos
+- Gabriel Araújo Campos Silva
+- Leonardo de Freitas Viana
+- Lucca Lacerda Alkmim Resende
 
 ---
 
@@ -25,14 +33,20 @@ Este repositório contém os trabalhos interdisciplinares desenvolvidos entre o 
 
 **Disciplinas Integradas:**  
 - Algoritmos e Estruturas de Dados 
-- Engenharia de Software  
+- Engenharia de Software 
+- Sistemas Inteligentes  
 - Bancos de Dados  
-- Sistemas Inteligentes 
 
 **Destaques:**  
-- Desenvolvimento de API  
-- Diagramação e manipulação de dados em banco  
+- Desenvolvimento de API   
 - Integração de ferramentas como chatbots
+- Diagramação e manipulação de dados em banco 
+
+**Autores:**  
+- Arthur de Sá Braz de Matos
+- Célia Regina Perdigão
+- Gabriel Araújo Campos Silva
+- Joshua Victor
 
 ---
 
@@ -44,20 +58,37 @@ Este repositório contém os trabalhos interdisciplinares desenvolvidos entre o 
 - Definição clara de problema
 - Planejamento de coleta e análise de dados  
 
-**Entregas:**  
-- Projeto de pesquisa escrito  
-- Apresentação dos objetivos e justificativas  
+**Autores:**  
+- Arthur de Sá Braz de Matos
+- Gabriel Araújo Campos Silva
 
 ---
 
 ### 4. Jogos Digitais (4º Período)
 **Descrição:** Desenvolvimento de um jogo digital utilizando a Unity, aplicando algoritmos de grafos e inteligência artificial.  
 
-**Requisitos e Entregas:**  
+**Disciplinas Integradas:**  
+- Teoria dos Grafos e Computabilidade
+- Inteligência Artificial  
+- Jogos Digitais
+
+**Destaques:**  
 - Implementação de IA e heurísticas  
 - Modelagem de personagens, veículos e cenários  
 - Programação de mecânicas, colisões e interface 
-- PITCH do jogo com regras, fluxograma e referências
+- PITCH do jogo com regras, fluxograma e 
+
+**Autores:**  
+- Ana Fernanda Souza Cancado
+- Arthur de Sá Braz de Matos
+- Gabriel Araújo Campos Silva
+- Gabriel Praes Bernardes Nunes
+- Guilherme Otávio de Oliveira
+- Júlia Pinheiro Roque
+- Pedro Augusto Gomes Ferreira de Albuquerque
+- Vitória Símil Araújo
+
+**🌟 Este projeto foi considerado um dos 3 melhores do semestre (2024/2)**
 
 ---
 
@@ -65,35 +96,51 @@ Este repositório contém os trabalhos interdisciplinares desenvolvidos entre o 
 **Descrição:** Desenvolvimento de uma solução embarcada, integrando hardware, software e comunicação em rede. 
 
 **Disciplinas Integradas:**  
-- Sistemas Operacionais  
-- Arquitetura de Computadores  
+- Arquitetura de Computadores 
+- Sistemas Operacionais   
 - Redes de Computadores
 - Banco de Dados
 
 **Destaques:**  
 - Utilização de ESP32 com leitores RFID para leitura de produtos  
 - API Flask para registro de itens e backend em FastAPI com integração ao Stripe  
-- Aplicativo em Flutter com visualização do carrinho em tempo real via WebSocket  
+- Aplicativo em Flutter com visualização do carrinho em tempo real via WebSocket 
 
-**Entregas:**  
-- Protótipo físico integrado à cesta de compras  
-- Aplicativo mobile funcional com pagamento simulado  
-- Relatório técnico com metodologia, resultados e roadmap de melhorias
-
----
-
-### 6. [Ainda não cursado] (6º Período)
-**Descrição:** Projeto ainda não desenvolvido.
+**Autores:**  
+- Ana Fernanda Souza Cancado
+- Arthur de Sá Braz de Matos
+- Gabriel Araújo Campos Silva
+- Gabriel Praes Bernardes Nunes
+- Guilherme Otávio de Oliveira
+- Vitória Símil Araújo
 
 ---
 
-## ✍️ Autor 
-Trabalhos realizados em equipe e com orientação dos professores da instituição.
-Períodos: 1º ao 6º (2023/1 - 2025/2) 
+### 6. Sistemas Paralelos e Distribuídos (6º Período)
+**Descrição:** Desenvolvimento de um projeto de um sistema paralelo e distribuído aplicado a processamento e análise de imagens. Aplicação de metodologia de avaliação/validação experimental.
+
+**Disciplinas Integradas:**  
+- Processamento e Análise de Imagens
+- Inteligência Artificial
+- Computação Distribuída 
+- Computação Paralela 
+
+**Destaques:**  
+- Integração com banco de dados para gerenciamento de usuários e coleções   
+- Arquitetura distribuída com React, Render, Cloudflare Tunnel e Google Colab  
+- Desenvolvimento de uma solução com foco em organização, gamificação e compartilhamento  
+- Utilização de um modelo de visão computacional para reconhecer marca e modelo de veículos
+
+**Autores:**  
+- Ana Fernanda Souza Cancado
+- Arthur de Sá Braz de Matos
+- Gabriel Praes Bernardes Nunes
+- Guilherme Otávio de Oliveira
+
+**🌟 Este projeto foi considerado um dos 3 melhores do semestre (2025/2)**
 
 ---
 
-## 📌 Observações
-- Todos os projetos foram desenvolvidos como parte da grade curricular do curso.  
-- O repositório pode conter arquivos complementares como relatórios, vídeos, apresentações e builds. 
-
+## 📌 Observações:
+- Trabalhos realizados em equipe e com orientação dos professores da instituição.
+- Todos os projetos foram desenvolvidos como parte da grade curricular do curso.
