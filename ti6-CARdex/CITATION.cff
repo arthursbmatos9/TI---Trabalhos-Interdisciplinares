@@ -1,0 +1,27 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: CARdex
+authors:
+- given-names: Ana Fernanda Souza
+  family-names: Cancado
+- given-names: Arthur de Sá Braz de
+  family-names: Matos
+- given-names: Gabriel Praes Bernardes
+  family-names: Nunes
+- given-names: Guilherme Otávio de
+  family-names: Oliveira
+- given-names: Henrique Cota de
+  family-names: Freitas
+  name-suffix: Professor
+  affiliation: PUC Minas
+- given-names: João Paulo Coelho
+  family-names: Furtado
+  name-suffix: Professor
+  affiliation: PUC Minas
+keywords:
+- null
+- null
+repository-code: https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-ti6-2025-2-g08-cardex
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2022-07-14
