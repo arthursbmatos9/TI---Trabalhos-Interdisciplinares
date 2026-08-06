@@ -1,6 +1,8 @@
 # Trabalhos Interdisciplinares - Ciência da Computação | PUC Minas
 
-Este repositório contém os trabalhos interdisciplinares desenvolvidos entre o 1º e o 6º período (2023/1 a 2025/2) do curso de Ciência da Computação da PUC Minas. Cada projeto integra conhecimentos adquiridos em diferentes disciplinas, promovendo o desenvolvimento de soluções completas, como aplicações web, jogos com inteligência artificial, sistemas embarcados, paralelos e distribuídos.
+Este repositório contém os trabalhos interdisciplinares desenvolvidos entre o 1º e o 6º período (2023/1 a 2025/2) do curso de Ciência da Computação da PUC Minas. 
+
+Cada projeto integra conhecimentos adquiridos em diferentes disciplinas, promovendo o desenvolvimento de soluções completas, como aplicações web, jogos com inteligência artificial, sistemas embarcados, paralelos e distribuídos.
 
 Dentro de cada pasta é possível encontrar arquivos como relatórios, vídeos, apresentações e builds, além dos códigos desenvolvidos.
 
@@ -76,7 +78,7 @@ Dentro de cada pasta é possível encontrar arquivos como relatórios, vídeos, 
 - Implementação de IA e heurísticas  
 - Modelagem de personagens, veículos e cenários  
 - Programação de mecânicas, colisões e interface 
-- PITCH do jogo com regras, fluxograma e 
+- PITCH do jogo com regras, fluxograma e referências
 
 **Autores:**  
 - Ana Fernanda Souza Cancado
